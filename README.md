@@ -10,6 +10,10 @@
 >
 > 🎯 **已定档**：2027 年 1 月出行、预算 ¥50,000（≈ 250,000 THB）→ 见 [2027 年 1 月 5 万预算方案](./2027年1月5万预算方案.md)；**住宿形态 / 供应商 / 酒店的横向对比与比价表**见 [普吉岛方案对比表](./普吉岛方案对比表.md)；**Pullman Arcadia 与 Anantara Layan 两家重点酒店的逐项详细对比**见 [Pullman vs Anantara 详细对比](./Pullman-vs-Anantara-详细对比.md)。
 >
+> 🏝️ **东岸备选**：**COMO Point Yamu**（悬崖、米其林 Key、5 个场地、20 座私享餐厅）与 **The Naka Island**（离岛、全泳池别墅）的完整参考见 [COMO 与 Naka Island（东岸参考）](./COMO与Naka-东岸参考.md)。
+>
+> ✉️ **可以直接复制发送**的中英双语询价邮件（Pullman / Anantara / COMO / Naka + 外包供应商）见 [询价邮件模板](./酒店询价邮件.md)。
+>
 > 🌐 **在线阅读**：**https://bruc3lau.github.io/wedding-site/**（本站是 Docsify 静态站点，带侧边栏、全文搜索与上下篇导航）。部署方式与本地预览命令见 [静态站点（Docsify）](#静态站点docsify)。
 
 ---

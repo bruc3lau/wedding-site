@@ -8,6 +8,8 @@
 - 场地与酒店
   - [酒店 / 度假村推荐](/普吉岛婚礼酒店推荐.md)
   - [Pullman vs Anantara 详细对比](/Pullman-vs-Anantara-详细对比.md)
+  - [COMO 与 Naka Island（东岸参考）](/COMO与Naka-东岸参考.md)
 
 - 比价与决策
   - [住宿 · 供应商 · 酒店对比表](/普吉岛方案对比表.md)
+  - [询价邮件模板（中英）](/酒店询价邮件.md)
