@@ -10,7 +10,7 @@
 >
 > 🎯 **已定档**：2027 年 1 月出行、预算 ¥50,000（≈ 250,000 THB）→ 见 [2027 年 1 月 5 万预算方案](./2027年1月5万预算方案.md)；**住宿形态 / 供应商 / 酒店的横向对比与比价表**见 [普吉岛方案对比表](./普吉岛方案对比表.md)；**Pullman Arcadia 与 Anantara Layan 两家重点酒店的逐项详细对比**见 [Pullman vs Anantara 详细对比](./Pullman-vs-Anantara-详细对比.md)。
 >
-> 🌐 **本站是一个静态文档站点（Docsify）**：打开仓库根目录的 `index.html` 即为阅读界面，带侧边栏、搜索与上下篇导航。本地预览命令见下方 [静态站点](#静态站点docsify)。
+> 🌐 **在线阅读**：**https://bruc3lau.github.io/wedding-site/**（本站是 Docsify 静态站点，带侧边栏、全文搜索与上下篇导航）。部署方式与本地预览命令见 [静态站点（Docsify）](#静态站点docsify)。
 
 ---
 
@@ -508,8 +508,24 @@ python3 -m http.server 8080
 # 然后浏览器打开 http://localhost:8080
 ```
 
-**发布到 GitHub Pages**
+**在线地址**
 
-1. 私有仓库需 **GitHub Pro / Team** 才能开 Pages；Free 计划下 Pages **只能用于公开仓库**。
-2. 若可为仓库开 Pages：仓库 **Settings → Pages → Source: Deploy from a branch → Branch: `main` / `(root)`**，保存后访问 `https://bruc3lau.github.io/wedding/`。
-3. 若不能公开本仓库：保持私有，仅用上面的本地预览；或把站点文件复制到一个**独立的公开仓库**再开 Pages。
+> 🌐 **https://bruc3lau.github.io/wedding-site/**
+
+本仓库是**私有工作仓**；文档会同步到**公开站点仓** [`bruc3lau/wedding-site`](https://github.com/bruc3lau/wedding-site)，由它的 GitHub Pages 提供服务（Free 计划下 Pages 只支持公开仓库，所以采用双仓结构）。
+
+**同步并发布**
+
+```bash
+cd ~/code/wedding
+./publish-site.sh
+```
+
+脚本会覆盖式同步上表的 Markdown 与站点文件到 `~/code/wedding-site`（首次运行自动克隆），提交并推送；Pages 约 30–60 秒后重新构建。
+
+**注意事项**
+
+- **只改本仓库**（`~/code/wedding`）。站点仓是只读镜像，在那边手改会被下一次同步覆盖。
+- `.nojekyll` 必须存在于站点仓根目录，否则 GitHub Pages 会用 Jekyll 处理，`_sidebar.md`、`_coverpage.md` 这类下划线开头的文件会被忽略，左侧导航与封面就会失效。
+- 若想换站点名或改用自定义域名，改 `index.html` 里的 `repo` 字段与站点仓的 Pages 设置即可。
+- 若哪天不想公开了：把站点仓设为私有或删除，Pages 会随之停掉；私有工作仓不受影响。
