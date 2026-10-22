@@ -22,6 +22,16 @@
     .markdown-section blockquote{ background: rgba(128,128,128,.06); border-radius: 0 6px 6px 0; padding: .6em 1em; }
     .app-name-link{ font-weight: 700; letter-spacing: .02em; }
     .cover-main > p:last-child a{ font-weight: 600; }
+    .site-meta{
+      position: fixed; right: 14px; bottom: 12px; z-index: 30;
+      display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+      max-width: min(92vw, 560px);
+      font-size: 11.5px; color: #8a8a8a; letter-spacing: .02em;
+      background: rgba(255,255,255,.78); backdrop-filter: blur(6px);
+      border: 1px solid rgba(128,128,128,.18); border-radius: 20px; padding: 4px 14px;
+    }
+    .site-meta .v{ font-weight: 700; color: var(--theme-color); }
+    .site-meta .sep{ color: #d0d0d0; }
     @media (prefers-color-scheme: dark){
       body, .sidebar, .markdown-section{ background: #1b1c1e; color: #cfcfcf; }
       .sidebar{ border-right: 1px solid #2a2b2e; }
@@ -44,11 +54,17 @@
       .sidebar-toggle{ background-color: transparent; }
       .pagination-item-title, .pagination-item-label{ color: #cfcfcf; }
       .docsify-copy-code-button{ background: #3a3b3e; color: #ddd; }
+      .site-meta{ background: rgba(34,35,38,.82); border-color: #3a3b3e; color: #8d8d8d; }
+      .site-meta .sep{ color: #4a4b4e; }
+    }
+    @media (max-width: 600px){
+      .site-meta{ font-size: 10.5px; right: 8px; bottom: 6px; padding: 3px 9px; gap: 8px; }
     }
   </style>
 </head>
 <body>
   <div id="app">加载中…</div>
+  <div id="site-meta" class="site-meta" aria-live="polite"></div>
 
   <script>
     window.$docsify = {
@@ -88,5 +104,47 @@
   <script src="https://fastly.jsdelivr.net/npm/docsify@4/lib/plugins/pagination.min.js"></script>
   <script src="https://fastly.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="https://fastly.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+
+  <script>
+    // 版本号 + 最后更新时间（数据来自发布时生成的 _meta.json）
+    (function () {
+      var meta = null;
+      function pad(n){ return (n < 10 ? '0' : '') + n; }
+      function fmt(iso, withTime){
+        if (!iso) return '—';
+        var d = new Date(iso);
+        if (isNaN(d.getTime())) return String(iso).slice(0, 10);
+        var s = d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate());
+        if (withTime) s += ' ' + pad(d.getHours()) + ':' + pad(d.getMinutes());
+        return s;
+      }
+      function render(file){
+        var badge = document.getElementById('site-meta');
+        if (!badge || !meta) return;
+        var key = file ? decodeURIComponent(file).replace(/^\.\//, '').split('/').pop() : 'README.md';
+        var page = (meta.pages && meta.pages[key]) || meta.updated;
+        badge.innerHTML =
+          '<span class="v">v' + (meta.version || '1.0.0') + '</span>' +
+          '<span class="sep">·</span>' +
+          '<span>站点更新 ' + fmt(meta.updated, true) + '</span>' +
+          '<span class="sep">·</span>' +
+          '<span>本页 ' + fmt(page) + '</span>' +
+          (meta.commit ? '<span class="sep">·</span><span>' + meta.commit + '</span>' : '');
+      }
+      function load(cb){
+        if (meta) return cb();
+        fetch('_meta.json?t=' + Date.now())
+          .then(function(r){ return r.ok ? r.json() : null; })
+          .then(function(j){ if (j) meta = j; cb(); })
+          .catch(function(){ cb(); });
+      }
+      var cfg = window.$docsify = window.$docsify || {};
+      cfg.plugins = [].concat(cfg.plugins || [], [function(hook, vm){
+        hook.doneEach(function(){
+          load(function(){ render(vm.route && vm.route.file); });
+        });
+      }]);
+    })();
+  </script>
 </body>
 </html>

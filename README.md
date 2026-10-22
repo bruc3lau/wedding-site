@@ -502,11 +502,24 @@ A：象征仪式完全可以，普吉有专门做 LGBTQ+ 的供应商。
 
 | 文件 | 作用 |
 |---|---|
-| `index.html` | 站点入口与 Docsify 配置（中文界面、搜索、分页、代码复制、深色模式） |
+| `index.html` | 站点入口与 Docsify 配置（中文界面、搜索、分页、代码复制、深色模式、版本/更新时间角标） |
 | `_sidebar.md` | 左侧导航 |
 | `_coverpage.md` | 首页封面 |
 | `404.md` | 找不到页面时的提示 |
+| `VERSION` | 站点版本号（纯文本，如 `1.1.0`），发布时写入 `_meta.json` |
+| `_meta.json` | **发布时自动生成**：版本号、站点最后更新时间、每一页的最后更新时间 |
 | `.nojekyll` | 必须保留：阻止 GitHub Pages 用 Jekyll 处理，否则 `_sidebar.md` 这类下划线开头的文件会被忽略 |
+
+**右下角角标**
+
+页面右下角会显示：`v1.1.0 · 站点更新 2026-10-22 14:05 · 本页 2026-10-21 · commit 1818b71`
+
+- **站点更新** = 私有工作仓最后一次提交时间；
+- **本页** = 当前这一页最后一次被修改的时间（逐页统计，来自 git 历史）；
+- 数据由 `publish-site.sh` 生成的 `_meta.json` 提供，前端读取后渲染。
+
+> 想改版本号：编辑根目录的 `VERSION` 文件即可，下次发布自动生效。
+> 想改显示样式：改 `index.html` 里的 `.site-meta` CSS 与脚本。
 
 **本地预览**
 
@@ -515,6 +528,8 @@ cd ~/code/wedding
 python3 -m http.server 8080
 # 然后浏览器打开 http://localhost:8080
 ```
+
+> ⚠️ 必须用 `http.server` 之类的 HTTP 服务打开，**直接双击 `index.html`（file:// 协议）无法读取 `_meta.json`**，右下角角标不会显示。
 
 **在线地址**
 
@@ -529,7 +544,7 @@ cd ~/code/wedding
 ./publish-site.sh
 ```
 
-脚本会覆盖式同步上表的 Markdown 与站点文件到 `~/code/wedding-site`（首次运行自动克隆），提交并推送；Pages 约 30–60 秒后重新构建。
+脚本会覆盖式同步上表的 Markdown 与站点文件到 `~/code/wedding-site`（首次运行自动克隆），同时按 git 历史生成 `_meta.json`（版本号 + 每页最后更新时间），提交并推送；Pages 约 30–60 秒后重新构建。
 
 **注意事项**
 
