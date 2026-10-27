@@ -1,3 +1,16 @@
+- 🏆 最终推荐
+  - [The Naka Phuket（第一推荐）](/email/markdown/2026-10-22-TheNaka-Phuket-婚礼询价回复.md)
+  - [Pullman Arcadia（第二推荐）](/email/markdown/2026-10-22-Pullman-Phuket-婚礼询价回复.md)
+  - [5 家酒店完整对比](/最新询价回复-5家酒店对比.md)
+
+- 🔥 最新询价回复（2026-10-27）
+  - [5 家酒店询价对比分析](/email/5家酒店询价回复对比分析.md)
+  - [Pullman Arcadia 回复](/email/markdown/2026-10-22-Pullman-Phuket-婚礼询价回复.md)
+  - [Anantara Layan 回复](/email/markdown/2026-10-23-Anantara-Layan-婚礼询价回复.md)
+  - [Renaissance Phuket 回复](/email/markdown/2026-10-23-Renaissance-Phuket-婚礼询价回复.md)
+  - [The Naka Phuket 回复](/email/markdown/2026-10-22-TheNaka-Phuket-婚礼询价回复.md)
+  - [COMO Point Yamu 回复](/email/markdown/2026-10-16-COMO-Point-Yamu-婚礼询价回复.md)
+
 - 开始
   - [总调研 README](/README.md)
   - [更新日志](/更新日志.md)
