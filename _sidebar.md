@@ -1,4 +1,5 @@
-- 🏖️ 首选 SALA · 备选 COMO
+- 🏆 三方终极对比 · SALA 领先
+  - [🥇 Naka vs SALA vs COMO 终极对比](/Naka-SALA-COMO-终极对比.md)
   - [📊 SALA vs COMO 决策对比](/SALA-vs-COMO-决策对比.md)
   - [⭐ 择日：2027 年 1 月婚礼日期](/择日-2027年1月婚礼日期.md)
   - [COMO Point Yamu（备选方案）](/COMO-Point-Yamu-预订决策与执行方案.md)
