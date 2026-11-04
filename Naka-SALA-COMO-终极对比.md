@@ -1,8 +1,8 @@
 # 🏆 Naka vs SALA vs COMO：三方终极对比
 
-> **2026-11-03 · 决赛圈**｜5 人（新人 2 + 3 位长辈）｜3 间房 × 2 晚｜2027-01-25 入住 → 01-27 退房｜仪式 **01-26（周二）17:40**，日落 18:31｜预算目标 **¥50,000（≈250,000 THB）**
+> **2026-11-04 · 定档 3/17**｜5 人（新人 2 + 3 位长辈）｜3 间房 × 2 晚｜2027-03-16 入住 → 03-18 退房｜仪式 **03-17（周三）17:40**，日落 18:37｜预算目标 **¥50,000（≈250,000 THB）**
 
-> **一句话结论**：**SALA 仍是唯一能在预算内落地的选项**；**COMO 是“愿意多花 2–3 万买悬崖与私密”的备选**；**Naka 画面最好（西向海景草坪 + 205 m² 私池别墅），但 2027 年 1 月实价把 5 人总价推到 ¥8.7–10.9 万**。除非预算翻倍、且长辈能接受山坡台阶，否则 Naka 只作为“看完就死心”的对照项。
+> **一句话结论**：三家都保留在候选里，但排序不同——**SALA 仍是唯一大概率能在 ¥5 万内落地的选项**；**COMO 是“愿意多花 2–3 万买悬崖与私密”的备选**；**Naka 画面最好（西向海景草坪 + 205 m² 私池别墅），但 2027 年 1 月实价已把 5 人总价推到 ¥8.7–10.9 万，3 月按 10–20% 下浮粗估仍要 ¥7–10 万**。除非预算上调、且长辈能接受山坡台阶，否则 Naka 更像“看完再死心”的对照项。
 
 > ⚠️ **先分清两个 Naka**
 >
@@ -21,12 +21,13 @@
 | 仪式画面 | 沙滩 / 草坪 + **太阳入海** | 悬崖草坪 + 攀牙湾，**无海上日落** | 海景草坪 + **太阳入海** + 私池别墅 |
 | 沙滩 | ✅ 长滩直通，**不宜游泳** | ❌ 酒店内无沙滩 | 🟡 酒店下方小海湾，**坡陡** |
 | 长辈友好 | ⭐⭐⭐⭐⭐ 平地、少爬坡 | ⭐⭐⭐⭐ 山地、需 buggy | ⭐⭐ **陡坡 + 台阶 + 等 buggy** |
-| 5 人全包 | **174,000–288,000 THB** | **301,000–393,000 THB** | **434,000–545,000 THB** |
+| 5 人全包（1 月口径） | **174,000–288,000 THB** | **301,000–393,000 THB** | **434,000–545,000 THB** |
 | 折合人民币 | **¥35,000–58,000** | **¥60,000–79,000** | **¥87,000–109,000** |
-| 与 25 万预算 | ✅ 低区间内；高区间 +15% | ⚠️ +20%–57% | ❌ +74%–118% |
+| 3 月粗估（下浮 10–20%） | **139,000–259,000 THB**（≈¥28,000–52,000） | **241,000–354,000 THB**（≈¥48,000–71,000） | **347,000–491,000 THB**（≈¥69,000–98,000） |
+| 与 25 万预算 | ✅ 低区间内；高区间 +4% | ⚠️ 低区间接近，高区间 +42% | ❌ +39%–96% |
 | 一句话 | 唯一“画面 + 长辈 + 预算”都成立的 | 最私密、餐饮最稳，但没有海日落 | 最出片，也最贵、最费腿 |
 
-> **决策状态**：SALA 领先；COMO 保留为备选；**Naka 不建议进入最终二选一**，除非预算上调到 ¥9 万以上且长辈体力允许。
+> **决策状态**：SALA 领先；COMO 保留为备选；**Naka 仍留在候选名单**，但只有 3 月报价把 3 间别墅 × 2 晚压到 **≤180,000 THB nett** 时才进入最终二选一。
 
 ---
 
@@ -129,9 +130,9 @@
 
 **最终建议**
 
-1. **SALA 继续做首选**，拿到 2027 房费与最低消费书面报价后回填总价；≤250,000 THB 直接定。
-2. **COMO 保留为唯一备选**，本周锁 1/25–27 房态；若 SALA 全包 >300,000，直接回 COMO。
-3. **Naka 降为对照项**：可以约一次 WhatsApp 视频看房，但不要为它推迟 SALA / COMO 的锁房；除非预算明确上调到 ¥9 万以上。
+1. **SALA 继续做首选**，拿到 3 月房费与最低消费书面报价后回填总价；≤250,000 THB 直接定。
+2. **COMO 保留为备选**，本周锁 3/16–18 房态；若 SALA 全包 >300,000，直接回 COMO。
+3. **Naka 保留候选但不占先手**：可以约一次 WhatsApp 视频看房，但不要为它推迟 SALA / COMO 的锁房；只有 3 月报价把房费压到 18 万 THB 以内、且预算上调到 ¥9 万以上，才重新排序。
 
 ---
 
@@ -153,7 +154,7 @@
 **Naka → 只有同时满足才考虑**
 
 1. 3 间 1BR 泳池别墅 × 2 晚 **≤ 180,000 THB nett**（目前公开价 21–27 万）。
-2. 书面确认 2 晚入住、免 8 晚门槛，且 1/25–27 有房。
+2. 书面确认 2 晚入住、免 8 晚门槛，且 3/16–18 有房。
 3. 给 3 位长辈安排近大堂 / Beachfront 房型 + 全天 buggy，并接受“仍要爬坡”。
 4. 预算上限上调到 **¥90,000** 以上。
 
@@ -163,25 +164,25 @@
 
 | 日期 | 动作 |
 |---|---|
-| **11/03（今天）** | SALA 发 14 条报价问题；COMO 锁 1/25–27 房态；Naka 只发一封“核价 + 看房”邮件 |
-| 11/05 | 收 SALA 房费与最低消费；收 Naka 的 3 间房书面价（重点看 1BR 泳池别墅） |
-| 11/07 | 三方总价回填本页 3.1 表；若 Naka > 40 万，直接划掉 |
-| **11/10** | **SALA vs COMO 二选一**，付定金锁房与场地 |
+| **11/04（今天）** | 三家同时发 3/16–18 报价：SALA 14 条问题；COMO 锁房态；Naka 核价 + 约看房 |
+| 11/06 | 收 SALA / COMO 房费与最低消费；收 Naka 的 3 间房书面价（重点看 1BR 泳池别墅） |
+| 11/08 | 三方总价回填本页 3.1 表；若 Naka 房费 > 18 万，直接划掉 |
+| **11/10** | **SALA vs COMO 二选一**，付定金锁房与场地；Naka 仅在价格达标时保留 |
 | 11/15 | 定四大金刚；确认雨备、航班时段与仪式时间 |
 
 ### 给 Naka 的补充问题（可直接粘进邮件）
 
 ```
-Subject: Follow-up | 5-guest wedding | 25–27 January 2027 | 3 rooms
+Subject: Follow-up | 5-guest wedding | 16–18 March 2027 | 3 rooms
 
 Dear Khun Ann,
 
 Thank you for your reply and the video tour offer. Before we compare options, could you please confirm in writing:
 
-1. Is the 2-night stay (25–27 January 2027, 3 rooms) confirmed for our group, despite the standard 8-night minimum?
+1. Is the 2-night stay (16–18 March 2027, 3 rooms) confirmed for our group, despite the standard 8-night minimum?
 2. Is the THB 117,000++ wedding package applicable to 5 guests? Please list inclusions and exclusions, and any minimum spend.
 3. Room rates for 3 rooms × 2 nights: One Bedroom Pool Villa (partial sea view / beachfront) and Napa Suite. Please quote nett, including taxes, and confirm breakfast.
-4. For 5 guests, which ceremony venue do you recommend — Garden Lawn or the beach? Can we have an exclusive 17:00–19:00 slot?
+4. For 5 guests, which ceremony venue do you recommend — Garden Lawn or the beach? Can we have an exclusive 17:40–19:10 slot?
 5. If it rains, is the indoor function room included in the package, or is the transparent marquee (THB 400,000–500,000) the only dinner backup?
 6. What is the music curfew for an outdoor ceremony and dinner? Are drones and fireworks permitted?
 7. For three guests over 60: how many steps from the lobby to the villas and to the beach? Is buggy service 24 hours? Which room category minimizes walking?
@@ -201,7 +202,7 @@ Best regards,
 **本站**
 - [SALA vs COMO 详细决策页（官方价目、14 条询价问题）](./SALA-vs-COMO-决策对比.md)
 - [COMO Point Yamu 预订决策与执行方案](./COMO-Point-Yamu-预订决策与执行方案.md)
-- [2027 年 1 月 5 万预算方案](./2027年1月5万预算方案.md)
+- [2027 年 3 月 5 万预算方案](./2027年1月5万预算方案.md)
 - [COMO 与 Naka Island（东岸离岛参考）](./COMO与Naka-东岸参考.md)
 - [5 家酒店询价回复对比](./最新询价回复-5家酒店对比.md)
 
@@ -209,7 +210,7 @@ Best regards,
 - [官方婚礼页（场地与容量）](https://www.thenakaphuket.com/beach-wedding-event/)
 - [官方 Western Wedding Package（THB 117,000++）](https://www.thenakaphuket.com/weddings/western-wedding-package/)
 - [官方 1BR Pool Villa（205 m²）](https://www.thenakaphuket.com/villas/phuket-one-bedroom-pool-villa/)
-- [Booking.com — 2027-01-25–27 房价](https://www.booking.com/hotel/th/the-naka-phuket.html)
+- [Booking.com — 2027-03-16–18 房价](https://www.booking.com/hotel/th/the-naka-phuket.html)
 - [TripAdvisor — The Naka Phuket](https://www.tripadvisor.com/Hotel_Review-g1379324-d3531526-Reviews-The_Naka_Phuket_a_Member_of_Design_Hotels-Kamala_Kathu_Phuket.html)
 - [Agoda — 住客评分](https://www.agoda.com/the-naka-phuket-villa-sha-plus/reviews/phuket-th.html)
 

@@ -4,7 +4,7 @@
 >
 > **决策状态（2026-11-03）**：🏖️ **首选 SALA Phuket，官方套餐已核，待 2027 房费 / 最低消费确认**｜🟡 **COMO Point Yamu 保留为备选**
 >
-> **不变的部分**：2027-01-25 入住 → 01-27 退房｜仪式 **01-26（周二）**｜5 人、3 间房、2 晚｜预算目标 ¥50,000
+> **已定部分**：2027-03-16 入住 → 03-18 退房｜仪式 **03-17（周三）17:40**｜5 人、3 间房、2 晚｜预算目标 ¥50,000
 >
 > **一句话**：如果最想要的画面是「沙滩上、太阳落进海里」，SALA 是这两家里唯一能满足的；COMO 赢在悬崖、私密与餐饮完成度。现在要做的不是继续纠结，而是用一封报价邮件把 SALA 的 5 人价格和限制问死。
 
@@ -32,7 +32,7 @@
 |---|---|---|---|
 | 位置 | 迈考（西北岸），机场 **15–20 分钟**（预留 30 分钟） | Cape Yamu（东岸），机场约 **25 分钟** | SALA |
 | 仪式场地 | 沙滩 / 海滩草坪 / Grove Garden / Glass House（官方容量 **50–60 人**） | 悬崖草坪 **The Lawn**，俯瞰攀牙湾 | 平 |
-| 日落 | ✅ 正西，**1/26 日落 18:31，太阳入海** | ❌ 东岸，日落在本岛陆地一侧，拍不到入海 | **SALA** |
+| 日落 | ✅ 正西，**3/17 日落 18:37，太阳入海** | ❌ 东岸，日落在本岛陆地一侧，拍不到入海 | **SALA** |
 | 沙滩 | ✅ 直通沙滩，但属公共海滩、不能封闭 | ❌ 酒店内无沙滩 | **SALA** |
 | 私密性 | ⭐⭐⭐⭐ 公共海滩，但迈考人流极低、酒店密度低 | ⭐⭐⭐⭐⭐ 半岛尽头、无公众穿越 | **COMO** |
 | 长辈友好 | ⭐⭐⭐⭐⭐ 平地、海滩 front、机场近；但沙滩不能摆躺椅 | ⭐⭐⭐⭐ 服务好，但山地台阶多、需 buggy | **SALA** |
@@ -45,7 +45,7 @@
 | 雨天备选 | 有室内场地，是否含在套餐待确认 | Private Dining Room / 室内，需确认是否加价 | 待确认 |
 | 总价 | **试算 ¥35,000–58,000**（THB 174,000–288,000） | **¥60,000–79,000**（THB 301,000–393,000） | SALA |
 
-> ⚠️ SALA 总价是**按官方套餐 + 1 月房费区间做的试算**，不是书面报价；COMO 的 60,000 net 只是场地费，不含住宿、餐饮与四大金刚。
+> ⚠️ SALA 总价是**按官方套餐 + 1 月房费口径做的试算**，不是书面报价；3 月房价通常低 10–20%，需重新回填。COMO 的 60,000 net 只是场地费，不含住宿、餐饮与四大金刚。
 
 ---
 
@@ -53,8 +53,8 @@
 
 ### 1. 画面不可替代：太阳真的落进海里
 
-- 1/26 日落 **18:31**，SALA 正西朝向，沙滩/海滩草坪可以直接拍到「太阳沉入海面」。
-- 择日建议 **17:40 开始仪式**：证婚 30–35 分钟，18:15 前后结束，接着香槟、合影，18:31 日落，18:36–19:01 蓝调，19:00 晚餐——**光线与节奏刚好一条线**。
+- 3/17 日落 **18:37**，SALA 正西朝向，沙滩/海滩草坪可以直接拍到「太阳沉入海面」。
+- **17:40 开始仪式**：证婚 30–35 分钟，18:15 前后结束，接着香槟、合影，18:37 日落，18:44–19:07 蓝调，19:15 晚餐——**光线与节奏刚好一条线**。3/17 为乙未日，酉时与日支未无冲无合，17:40 主要按光线与流程选。
 - COMO 的悬崖草坪更「杂志封面」，但东岸日落方向在本岛陆地一侧，**拍不到落日入海**，只能拍暮色、剪影与喀斯特。
 
 ### 2. 长辈少折腾：机场近、平地、直通沙滩
@@ -81,8 +81,8 @@
 ## 四、必须接受的 6 个硬约束
 
 1. **沙滩是公共的**：泰国海滩全部公有，SALA 不能封闭沙滩，也不能阻止路人经过；只能做软隔离、安排工作人员引导。迈考人流极少，但「仪式期间绝对没有陌生人」无法承诺。
-2. **Sirinat 国家公园规定**：沙滩与部分区域在国家公园范围内，对搭建、音响、灯光、夜间活动可能有限制；**11–2 月是海龟产卵季**，1 月办仪式要特别确认夜间灯光与海滩活动限制。
-3. **飞机航道**：迈考南端是「飞机沙滩」，飞机 30–50 米掠过；SALA 不在正下方，但低空航班仍可能入镜/入音。需要按 1 月起降方向挑选仪式时段。
+2. **Sirinat 国家公园规定**：沙滩与部分区域在国家公园范围内，对搭建、音响、灯光、夜间活动可能有限制；**11–2 月是海龟产卵季**，3 月中旬虽已过高峰，仍要确认夜间灯光与海滩活动限制。
+3. **飞机航道**：迈考南端是「飞机沙滩」，飞机 30–50 米掠过；SALA 不在正下方，但低空航班仍可能入镜/入音。需要按 3 月起降方向挑选仪式时段。
 4. **无人机与烟花禁止**：酒店明确不允许，且靠近机场；如果摄像方案依赖无人机，要提前改脚本。
 5. **5 人价格未必同比降**：117,582 THB 是 **Splendid 60 人档含税价**；5 人虽对应 Simple 35,192，但仍可能被最低消费抬高，必须拿到分项报价。
 6. **沙滩好看，但不一定好游**：迈考没有常驻救生员，5–10 月季风期常有红旗；11–2 月又是海龟产卵季。Trip.com 与 Agoda 都有点评直接写「can't swim at this beach」。长辈想下海，基本只能靠酒店泳池 / 私池——这会在仪式前后被反复提起。
@@ -126,15 +126,15 @@
 
 > 早餐若房价不含，约 **THB 350–1,000/人/天**；5 人 × 2 天 = 3,500–10,000。
 
-**房间（官方直订参考 + 1 月规划）**
+**房间（官方直订参考 + 1 月/3 月规划）**
 
-| 房型 | 面积 | 可住 | 官方直订参考 | 1 月规划价/晚 |
+| 房型 | 面积 | 可住 | 官方直订参考 | 1 月规划价/晚（3 月预计低 10–20%） |
 |---|---|---:|---:|---:|
 | Garden Pool Villa | 158 m² | 3 成人 | from 8,602 | 9,000–13,000 |
 | SALA Pool Villa | 157 m² | 3 成人 | — | 9,500–14,000 |
 | One Bedroom Duplex Pool Villa Suite | 333 m² | 3 成人 | from 11,614 | 12,000–17,000 |
 
-> 直订页显示的 from 8,602 / 11,614 为**套餐口径**，含税与否待确认。TripAdvisor 标价区间 **US$176–580/晚**；1 月是旺季上半区。3 间泳池别墅 × 2 晚 ≈ **54,000–84,000 THB**。房费是 nett 还是 ++ 必须逐项确认。
+> 直订页显示的 from 8,602 / 11,614 为**套餐口径**，含税与否待确认。TripAdvisor 标价区间 **US$176–580/晚**；1 月是旺季上半区，3 月为旺季尾。3 间泳池别墅 × 2 晚 ≈ **54,000–84,000 THB**。房费是 nett 还是 ++ 必须逐项确认。
 
 ### 5.3 5 人总价试算（含外部三大）
 
@@ -148,7 +148,7 @@
 | 杂项 / 布置升级 | 10,000 | 20,000 | 花艺、交通、小费 |
 | **合计** | **≈174,000** | **≈288,000** | **≈ ¥35,000–58,000** |
 
-> 若 1 月房费冲到 **17,000–19,000/晚**（Duplex 或春节前高峰），6 房晚会比高区间再加 **18,000–30,000**，总价 **直接越过 300,000 阈值**。所以决定权其实在「房费报价」，不在仪式套餐。
+> 若 1 月房费冲到 **17,000–19,000/晚**（Duplex 或春节前高峰），6 房晚会比高区间再加 **18,000–30,000**，总价 **直接越过 300,000 阈值**。所以决定权其实在「房费报价」，不在仪式套餐；3 月要按新报价重算这条阈值。
 
 ### 5.4 口碑：4.6/5 的酒店，差评集中在哪
 
@@ -189,7 +189,7 @@
 | **250,000–300,000 THB** | ⚖️ 看「海上日落 + 沙滩 + 长辈少折腾」是否值这个差价；倾向 SALA |
 | **> 300,000 THB**，或必须按 60 人最低消费 | ❌ **回 COMO** |
 
-> 按 5.3 试算，SALA 大概率落在 **174,000–288,000 THB**：低区间直接过线，高区间只差一口气。真正会把总价推过 300,000 的，是 **1 月房费**与**外部摄影/妆发报价**，不是仪式套餐。
+> 按 5.3 试算，SALA 大概率落在 **174,000–288,000 THB**：低区间直接过线，高区间只差一口气。真正会把总价推过 300,000 的，是 **房费**与**外部摄影/妆发报价**，不是仪式套餐；3 月房价下浮后需重新判断。
 >
 > 所有比较必须统一口径：**nett（含 10% 服务费 + 7% VAT）还是 ++（另加 17.7%）**。SALA 的套餐价、房费、餐饮、外部供应商进场费要分开列。
 
@@ -200,48 +200,48 @@
 | 时间 | 动作 |
 |---|---|
 | 16:30 | 音响试麦、音乐清单确认；确认沙滩/草坪软隔离 |
-| 17:00 | 父母就位（椅子、水、扇子、纸巾） |
-| **17:40** | **仪式开始**（择日建议；17:00 亦可用，但 17:40 更贴日落） |
+| 17:20 | 父母就位（椅子、水、扇子、纸巾） |
+| **17:40** | **仪式开始**（酉时初；17:00 亦可用，但 17:40 更贴日落） |
 | 18:15 | 仪式结束，香槟 + 撒花 + 全家福 |
-| **18:31** | **日落**，双人外景优先拍逆光、剪影、走路 |
-| 18:36–19:01 | 蓝调 + 灯串，全天最出片的 25 分钟 |
+| **18:37** | **日落**，双人外景优先拍逆光、剪影、走路 |
+| 18:44–19:07 | 蓝调 + 灯串，全天最出片的 20–25 分钟 |
 | 19:00 | 家庭晚餐（确认是沙滩晚餐、餐厅包间还是私厨） |
 | 22:30 | 户外音乐结束（官方条款）；Glass House 可续至 01:00，低音量 |
 
-> 若 SALA 要求 17:00 开始（例如场地时段限制），整体前移 40 分钟：17:25 结束、17:30–18:31 拍双人、18:31 日落，仍然成立。
+> 若 SALA 要求 17:00 开始（例如场地时段限制），整体前移 40 分钟：17:25 结束、17:30–18:37 拍双人、18:37 日落，仍然成立。
 
 ---
 
 ## 七、给 SALA 的 5 人报价邮件（可直接发）
 
 ```
-Subject: Wedding enquiry | 26 January 2027 | 5 guests | 3 rooms | 2 nights
+Subject: Wedding enquiry | 17 March 2027 | 5 guests | 3 rooms | 2 nights
 
 Dear SALA Weddings Team,
 
 We are planning a small family wedding at SALA Phuket Mai Khao Beach Resort and would like a written quotation.
 
 Details:
-· Dates: check-in 25 January 2027, check-out 27 January 2027 (2 nights)
-· Ceremony: 26 January 2027, symbolic only (no legal registration), 5 guests
+· Dates: check-in 16 March 2027, check-out 18 March 2027 (2 nights)
+· Ceremony: 17 March 2027, symbolic only (no legal registration), 5 guests
 · Rooms: 3 rooms (the couple + three parents, all over 60; preferably adjacent / same level)
 · Preferred venue: beachfront lawn or beach sand; sunset ceremony around 17:40
 
 Could you please confirm:
 1. The 5-guest wedding package price and exactly what it includes (ceremony setup, celebrant, photography, videography, hair & makeup, flowers, dinner, cake, champagne).
 2. Room rates for 3 rooms × 2 nights, with room types suitable for elderly guests.
-3. We have the 2025 brochure listing Simple (THB 29,900++ / 2–12 guests), Special (59,900++ / 2–30) and Splendid (99,900++ / 2–60). Is the Simple or Special package available for 5 guests on 26 January 2027, and what is the minimum spend? Please confirm the current 2027 rates and the brochure's validity.
+3. We have the 2025 brochure listing Simple (THB 29,900++ / 2–12 guests), Special (59,900++ / 2–30) and Splendid (99,900++ / 2–60). Is the Simple or Special package available for 5 guests on 17 March 2027, and what is the minimum spend? Please confirm the current 2027 rates and the brochure's validity.
 4. Can we reserve an exclusive setup area and time slot on the beachfront lawn / beach? The beach is public — what soft boundary or staff measures can you provide?
-5. Sirinat National Park rules for setup, sound, lighting and event end time. In January (turtle nesting season), are there restrictions on beach lighting or night activities?
+5. Sirinat National Park rules for setup, sound, lighting and event end time. In mid-March (tail of turtle nesting season), are there restrictions on beach lighting or night activities?
 6. What is the wet-weather backup venue? Is it included or charged extra?
 7. Is there an external vendor fee if we bring our own photographer, videographer, hair & makeup artist or planner?
-8. What is the flight path and schedule near the resort in January? Which ceremony time would avoid low-flying aircraft in photos and audio?
+8. What is the flight path and schedule near the resort in mid-March? Which ceremony time would avoid low-flying aircraft in photos and audio?
 9. Is a 5-person dinner available (beach dinner / private dining)? Per-person price and minimum spend?
 10. Are drones and fireworks prohibited? (We understand they are.)
 11. Are rates nett (including 10% service charge and 7% VAT) or ++? Please provide a breakdown.
 12. Deposit, cancellation and postponement policy; airport transfer for 5 guests with luggage.
 13. Do the room rates include breakfast and taxes? If breakfast is extra, what is the per-person rate?
-14. In late January, is the beach safe for elderly guests to swim? Are lifeguards or warning flags in place, and are there turtle-season restrictions we should explain to our parents?
+14. In mid-March, is the beach safe for elderly guests to swim? Are lifeguards or warning flags in place, and are there turtle-season restrictions we should explain to our parents?
 
 Please send a written quotation (PDF) with its validity period.
 
@@ -255,13 +255,13 @@ Best regards,
 
 | 日期 | 动作 |
 |---|---|
-| **11/03（今天）** | 发 SALA 报价邮件；同时让 COMO 保留 1/25–27 房态与 60,000 net 场地费报价 |
+| **11/04（今天）** | 发 SALA 3 月报价邮件；同时让 COMO 保留 3/16–18 房态与 60,000 net 场地费报价 |
 | 11/05 | 收到 SALA 回复；核对套餐包含项、最低消费、房费、国家公园限制 |
 | 11/07 | 统一含税口径，填成本对比表；必要时约视频看场地/草坪 |
 | **11/10** | **决定 SALA 或回 COMO**；付定金锁房与场地 |
 | 11/15 | 定四大金刚；确认雨备、航班时段与仪式时间 |
 
-> 1 月是旺季，日落档与泳池别墅都抢手；**不要等「都问清楚」再锁房**，先让两边都保留房态，再用报价做决定。
+> 3 月是旺季尾，日落档与泳池别墅仍抢手，但价格通常比 1 月低 10–20%；**不要等「都问清楚」再锁房**，先让两边都保留房态，再用报价做决定。
 
 ---
 
@@ -282,8 +282,8 @@ Best regards,
 **本站**
 - [SALA Phuket 专项评估（独立沙滩、私密性、8 个问题）](./普吉岛婚礼酒店完整对比.md)
 - [COMO Point Yamu 预订决策与执行方案](./COMO-Point-Yamu-预订决策与执行方案.md)
-- [2027 年 1 月 5 万预算方案](./2027年1月5万预算方案.md)
-- [择日：2027 年 1 月婚礼日期](./择日-2027年1月婚礼日期.md)
+- [2027 年 3 月 5 万预算方案](./2027年1月5万预算方案.md)
+- [择日定档：2027-03-17](./择日-2027-03-17婚礼.md)
 
 **价格与官方手册**
 - [SALA Phuket — Weddings & Events 手册（2025-01，套餐价表）](https://www.salahospitality.com/phuket/wp-content/uploads/sites/10/2025/01/SPKT_Wedding-and-Event-Brochure.pdf)
