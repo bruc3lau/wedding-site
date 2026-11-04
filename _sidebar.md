@@ -1,4 +1,5 @@
 - 🏆 三方终极对比 · SALA 领先
+  - [⏰ 仪式时辰：17:40（酉时初）](/择日-2027年1月婚礼日期.md#shichen)
   - [🥇 Naka vs SALA vs COMO 终极对比](/Naka-SALA-COMO-终极对比.md)
   - [📊 SALA vs COMO 决策对比](/SALA-vs-COMO-决策对比.md)
   - [⭐ 择日复核：1 月 / 3 月婚礼日期](/择日-2027年1月婚礼日期.md)
