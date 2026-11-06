@@ -4,11 +4,17 @@
 >
 > **3/16 入住 → 3/17 仪式 → 3/18 退房**
 >
+> **🎯 最终结论：首选 SALA Phuket；备选 COMO Point Yamu；Surin 仅在预算加到 ¥6–7 万且无最低消费时考虑；Impiana / Naka 不进入最终二选一。**
+>
 > **🏖️ 首选：SALA Phuket** · 迈考海滩 + 太阳入海 + 机场 15–20 分钟 · 官方 5 人套餐 **35,192 THB 含税** · TripAdvisor **4.6/5**
 >
 > **🟡 备选：COMO Point Yamu** · 悬崖草坪 + 攀牙湾 · 3 月粗估 ¥4.8–7.1 万
 >
 > **🟠 候选：The Naka Phuket** · 西向海景草坪 + 私池别墅 · 3 月粗估 ¥6.9–9.8 万
+>
+> **🌴 第四家：The Surin Phuket** · Pansea 私密海湾 + 太阳入海 · 139,000 THB net 一站式套餐 · 3 月粗估 ¥5.8–7.2 万（平地房）
+>
+> **🏊 第五家：Impiana Private Villas Kata Noi** · 11 间私池别墅 + 120 m² 悬崖日落草坪 · 177,000 THB net 套餐 · 3 月粗估 ¥5.9–7.5 万（1 层房）
 >
 > **⚠️ 定档前提：3/17 = 乙未日 · 定日 · 天德值神 · 宜嫁娶，不冲双方夫妻宫；但农历二月为「妨」月（女方子年）** → 付定金前先确认长辈接受
 >
@@ -20,6 +26,8 @@
 
 [⭐ 择日定档：2027-03-17](/择日-2027-03-17婚礼.md)
 [🏆 Naka vs SALA vs COMO 三方终极对比](/Naka-SALA-COMO-终极对比.md)
+[🌴 The Surin 第四家评估](/The-Surin-Phuket-对比评估.md)
+[🏊 Impiana 第五家评估](/Impiana-Kata-Noi-对比评估.md)
 [📊 SALA vs COMO 对比与决策](/SALA-vs-COMO-决策对比.md)
 [🗓️ 1 月 / 3 月全月备选分析](/择日-2027年1月婚礼日期.md)
 [预算总览](/README.md)
